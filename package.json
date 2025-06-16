@@ -10,9 +10,18 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "ionic:build": "npm run build",
+    "ionic:serve": "vite dev --host"
   },
   "dependencies": {
+    "@capacitor/app": "7.0.1",
+    "@capacitor/cli": "7.3.0",
+    "@capacitor/core": "7.3.0",
+    "@capacitor/haptics": "7.0.1",
+    "@capacitor/ios": "7.3.0",
+    "@capacitor/keyboard": "7.0.1",
+    "@capacitor/status-bar": "7.0.1",
     "@tailwindcss/vite": "^4.1.10",
     "appwrite": "^18.1.1",
     "react": "^19.1.0",
