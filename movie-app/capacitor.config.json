@@ -1,0 +1,6 @@
+{
+  "appId": "com.movieapp.destructivebaskt",
+  "appName": "movie-app-destructivebasket",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

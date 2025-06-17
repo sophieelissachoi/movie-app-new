@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@capacitor/ios": "^7.3.0",
     "@tailwindcss/vite": "^4.1.10",
     "appwrite": "^18.1.1",
     "react": "^19.1.0",
