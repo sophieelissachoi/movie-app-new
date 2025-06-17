@@ -1,7 +1,0 @@
-{
-  "name": "movie-app-new",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "custom"
-}
